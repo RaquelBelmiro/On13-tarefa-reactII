@@ -1,0 +1,31 @@
+.main{
+  display: flex;
+  flex-direction: column;
+}
+.card-container {
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  width: 80%;
+  align-items: center;
+}
+
+.card {
+  height: 100px;
+  width: 300px;
+  background-color: #E79A80;
+  border-radius: 4px;
+  color: white;
+  padding: 8px;
+}
+
+.card h4 {
+  font-weight: 800;
+}
+
+.enter-repo {
+  bottom: 0;
+  margin-top: 100%;
+}

@@ -1,0 +1,20 @@
+.redes-sociais {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-justify: auto;
+  width: 550px;
+  height: 350px;
+  font-size: 24px;
+  margin: 40px auto;
+}
+
+.redes-sociais p {
+  text-align: center;
+}
+
+.siga {
+  font-size: 36px;
+}

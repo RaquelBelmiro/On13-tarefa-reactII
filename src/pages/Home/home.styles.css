@@ -1,0 +1,12 @@
+.texto {
+  height: 280px;
+}
+
+.texto h3 {
+  text-align: center;
+  text-justify: auto;
+  margin: 280px auto;
+  width: 550px;
+  font-weight: 600;
+  font-size: 24px;
+}
